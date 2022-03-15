@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "vuepress-theme-reco": "^1.6.11"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "description": "Front-End Technology Blog",
+  "repository": "https://github.com/yxy4598/blog.git",
+  "author": "billowcloud <yu.life@qq.com>"
+}
